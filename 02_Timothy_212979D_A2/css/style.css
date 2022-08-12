@@ -260,7 +260,7 @@ div.causes__titleContainer {
     position: relative;
     width: 100vw;
     height: 100vh;
-    background-image: url(./Images/forest.jpg);
+    background-image: url(../Images/forest.jpg);
     background-size: cover;
     z-index: -10;
     display: grid;
@@ -449,7 +449,7 @@ p.globalWarming__videoCredits {
 div.GreenhouseGases {
     height: 90%;
     position: relative;
-    background-image: url(./Images/GreenhouseGases.jpg);
+    background-image: url(../Images/GreenhouseGases.jpg);
     background-size: cover;
     z-index: -10;
 }
